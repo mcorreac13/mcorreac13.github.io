@@ -1,0 +1,23 @@
+.div1 {
+    font-size: 12px;
+    text-align: right;
+    line-height: 50%;
+    font-style: italic;
+}
+
+.div2 {
+    font-size: 12px;
+    text-align: left;
+    line-height: 50%;
+    font-style: italic;
+}
+
+.p1 {
+    margin-left: 2.5%;
+    text-align: justify;
+}
+
+.tab {
+    width: 50%;
+    margin: 0 auto;
+}
