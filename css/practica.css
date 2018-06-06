@@ -54,6 +54,9 @@ body {
 
 .crt {
     margin-left: 1000px;
-    background-color: aqua;
+    background-color: #48D1DB;
+    position: fixed;
+    top: 600px;
     margin-right: 316px;
+    border-radius: 9px;
 }
