@@ -1,3 +1,12 @@
+.heads {
+    background: #FFF;
+    width: 60%;
+    left: 0;
+    top: 0;
+    margin-left: 270px;
+    position: fixed;
+}
+
 .p1 {
     float: left;
     line-height: 20px;
@@ -37,4 +46,14 @@
 td {
     border-radius: 5px;
     vertical-align: top;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.crt {
+    margin-left: 1000px;
+    background-color: aqua;
+    margin-right: 316px;
 }
