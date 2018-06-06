@@ -10,11 +10,13 @@
 .p1 {
     float: left;
     line-height: 20px;
+    margin-top: 35px;
 }
 
 .p2 {
     float: right;
     line-height: 20px;
+    margin-top: 35px;
 }
 
 .tb {
@@ -58,6 +60,7 @@ body {
     position: fixed;
     top: 618px;
     margin-right: 320px;
-    border-radius: 9px;
-    color: white;
+    border-radius: 11px;
+    color: #FFF;
+    font-size: 20px;
 }
